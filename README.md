@@ -1,9 +1,9 @@
-# ❓Why Image Generation LLMs Struggle with Simple Concepts – And What We Can Do About It
+# Why Image Generation LLMs Struggle with Simple Concepts – And What We Can Do About It
 
 If you ask an AI to generate an image of a **football player scoring with their left foot**, a **glass of milk filled to the brim**, or a **clock showing 11:45**, 9 out of 10 times, you won’t get what you expect.  
 *Don’t believe me? Try it yourself.*
 
-## Why do image generation LLMs struggle with such seemingly simple requests?
+## ❓Why do image generation LLMs struggle with such seemingly simple requests?
 
 It comes down to **compositional reasoning** and **spatial coherence**—two areas where AI models often fall short. Unlike humans, who intuitively understand object relationships, physics, and spatial constraints, AI models work by recognizing statistical patterns in their training data.
 
