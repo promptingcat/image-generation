@@ -1,4 +1,4 @@
-# Why Image Generation LLMs Struggle with Simple Concepts – And What We Can Do About It
+# ❓Why Image Generation LLMs Struggle with Simple Concepts – And What We Can Do About It
 
 If you ask an AI to generate an image of a **football player scoring with their left foot**, a **glass of milk filled to the brim**, or a **clock showing 11:45**, 9 out of 10 times, you won’t get what you expect.  
 *Don’t believe me? Try it yourself.*
