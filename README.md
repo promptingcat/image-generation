@@ -54,7 +54,7 @@ Chances are, you’ll either get a half-full glass or a clock stubbornly showing
 
 ## 🛠️ My Solution: A Reliable Prompt Template
 
-After thorough research and hands-on experimentation, I’ve created a [PROMPT TEMPLATE](./ImgGenPrompt)that consistently yields high-quality, context-aware results across various generative AI tools.
+After thorough research and hands-on experimentation, I’ve created a [PROMPT TEMPLATE](./ImgGenPromptTemplate.py)that consistently yields high-quality, context-aware results across various generative AI tools.
 
 ### ✅ Key Benefits
 - **Granular Detail**: Covers everything from subject attributes to action, environment, and style.
